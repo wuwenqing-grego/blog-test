@@ -11,7 +11,9 @@
 2. item2
 
 here's some code
+
     let a = 1
+    console.log('hello')
 
 ```javascript
 console.log('hello')
